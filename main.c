@@ -15,7 +15,7 @@ void *func(void *arg)
 	return NULL;
 }
 
-
+//主函数
 int main(int argc,char* argv[])
 {
 	if(argc != 3)
